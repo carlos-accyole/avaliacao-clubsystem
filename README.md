@@ -4,7 +4,7 @@
 Este é um teste para verificação de habilidades necessárias para desenvolvimento das aplicações da Clubsystem
 
 ## O que deve ser feito
-O sistema deve ser dividido em duas etapas
+O sistema deve ser dividido em duas etapas: O Front e o back. Os dois devem ser implementados na mesma aplicação, sem a necessidade de um outro serviço para execução de somente o front-end
 
 ### Front-end
 * Deve ser desenvolvido em Vue js e Bootstrap
